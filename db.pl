@@ -1,0 +1,91 @@
+% Countries
+word('india', 'country').
+word('spain', 'country').
+word('italy', 'country').
+word('china', 'country').
+word('japan', 'country').
+
+% Fruits
+word('apple', 'fruit').
+word('grape', 'fruit').
+word('mango', 'fruit').
+word('peach', 'fruit').
+word('melon', 'fruit').
+word('guava', 'fruit').
+word('lemon', 'fruit').
+
+% Animals
+word('zebra', 'animal').
+word('otter', 'animal').
+word('panda', 'animal').
+word('koala', 'animal').
+word('tiger', 'animal').
+word('sheep', 'animal').
+word('whale', 'animal').
+word('shark', 'animal').
+word('hippo', 'animal').
+
+% Colors
+word('white', 'color').
+word('black', 'color').
+word('green', 'color').
+word('brown', 'color').
+
+% Tools
+word('knife', 'tool').
+word('screw', 'tool').
+word('drill', 'tool').
+word('spade', 'tool').
+word('ruler', 'tool').
+word('brush', 'tool').
+word('scrap', 'tool').
+word('clamp', 'tool').
+word('torch', 'tool').
+word('level', 'tool').
+word('wedge', 'tool').
+word('wheel', 'tool').
+word('nails', 'tool').
+word('adzes', 'tool').
+word('files', 'tool').
+word('tongs', 'tool').
+word('broom', 'tool').
+
+% Clothing
+word('shirt', 'clothing').
+word('pants', 'clothing').
+word('dress', 'clothing').
+word('socks', 'clothing').
+word('skirt', 'clothing').
+word('jeans', 'clothing').
+word('boots', 'clothing').
+word('scarf', 'clothing').
+word('gowns', 'clothing').
+word('tunic', 'clothing').
+word('sweat', 'clothing').
+word('vests', 'clothing').
+word('saree', 'clothing').
+
+% Vehicles
+word('plane', 'vehicle').
+word('train', 'vehicle').
+word('truck', 'vehicle').
+word('ferry', 'vehicle').
+word('scoot', 'vehicle').
+word('moped', 'vehicle').
+word('lorry', 'vehicle').
+word('cycle', 'vehicle').
+word('hover', 'vehicle').
+
+% Musical Instruments
+word('flute', 'instrument').
+word('trump', 'instrument').
+word('drums', 'instrument').
+word('piano', 'instrument').
+word('cello', 'instrument').
+word('claro', 'instrument').
+word('organ', 'instrument').
+word('banjo', 'instrument').
+word('lyres', 'instrument').
+word('ukele', 'instrument').
+word('bongo', 'instrument').
+word('sitar', 'instrument').
